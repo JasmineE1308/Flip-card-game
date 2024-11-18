@@ -4,41 +4,41 @@ const resultdisplay = document.querySelector("#score")
 const cardArray = [
     {
         name:"lemon",
-        img:"images/lemon.png"
+        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/lemon.png"
     },{
         name:"watermelon",
-        img:"images/watermelon.png"
+        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/watermelon.png"
     },{
         name:"orange",
-        img:"images/orange.png"
+        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/orange.png"
     },{
         name:"pineapple",
-        img:"images/pineapple.png"
+        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/pineapple.png"
     },{
         name:"grapes",
-        img:"images/grapes.png"
+        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/grapes.png"
     },{
         name:"tomato",
-        img:"images/tomato.png"
+        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/tomato.png"
     },
     {
         name:"lemon",
-        img:"images/lemon.png"
+        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/lemon.png"
     },{
         name:"watermelon",
-        img:"images/watermelon.png"
+        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/watermelon.png"
     },{
         name:"orange",
-        img:"images/orange.png"
+        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/orange.png"
     },{
         name:"pineapple",
-        img:"images/pineapple.png"
+        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/pineapple.pngimages/pineapple.png"
     },{
         name:"tomato",
-        img:"images/tomato.png"
+        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/tomato.png"
     },{
         name:"grapes",
-        img:"images/grapes.png"
+        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/grapes.png"
     },
 ]
 
@@ -87,8 +87,8 @@ function checkmatch(){
         resultdisplay.innerHTML = cardsWon.length;
     }
     else{
-        cards[card_chosen_id[0]].setAttribute('src','images/floralbg.webp')
-        cards[card_chosen_id[1]].setAttribute('src','images/floralbg.webp')
+        cards[card_chosen_id[0]].setAttribute('src','https://github.com/JasmineE1308/Flip-card-game/blob/main/floralbg.webp')
+        cards[card_chosen_id[1]].setAttribute('src','https://github.com/JasmineE1308/Flip-card-game/blob/main/floralbg.webp')
     }
 
     card_chosen = [];

@@ -87,8 +87,8 @@ function checkmatch(){
         resultdisplay.innerHTML = cardsWon.length;
     }
     else{
-        cards[card_chosen_id[0]].setAttribute('src','https://github.com/JasmineE1308/Flip-card-game/blob/main/floralbg.webp')
-        cards[card_chosen_id[1]].setAttribute('src','https://github.com/JasmineE1308/Flip-card-game/blob/main/floralbg.webp')
+        cards[card_chosen_id[0]].setAttribute('src','https://raw.githubusercontent.com/JasmineE1308/Flip-card-game/refs/heads/main/floralbg.webp')
+        cards[card_chosen_id[1]].setAttribute('src','https://raw.githubusercontent.com/JasmineE1308/Flip-card-game/refs/heads/main/floralbg.webp')
     }
 
     card_chosen = [];

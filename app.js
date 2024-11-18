@@ -50,7 +50,7 @@ function generateboard(){
     for(let i=0; i<cardArray.length; i++)
     {
         const card = document.createElement('img');
-        card.setAttribute('src','images/floralbg.webp');
+        card.setAttribute('src','https://raw.githubusercontent.com/JasmineE1308/Flip-card-game/refs/heads/main/floralbg.webp');
         card.setAttribute('data-id',i);
         card.addEventListener('click',flipcard);
         griddisplay.appendChild(card);

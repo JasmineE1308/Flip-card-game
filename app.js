@@ -4,41 +4,41 @@ const resultdisplay = document.querySelector("#score")
 const cardArray = [
     {
         name:"lemon",
-        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/lemon.png"
+        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/lemon.png?raw=true"
     },{
         name:"watermelon",
-        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/watermelon.png"
+        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/watermelon.png?raw=true"
     },{
         name:"orange",
-        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/orange.png"
+        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/orange.png?raw=true"
     },{
         name:"pineapple",
-        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/pineapple.png"
+        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/pineapple.png?raw=true"
     },{
         name:"grapes",
         img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/grapes.png?raw=true"
     },{
         name:"tomato",
-        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/tomato.png"
+        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/tomato.png?raw=true"
     },
     {
         name:"lemon",
-        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/lemon.png"
+        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/lemon.png?raw=true"
     },{
         name:"watermelon",
-        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/watermelon.png"
+        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/watermelon.png?raw=true"
     },{
         name:"orange",
-        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/orange.png"
+        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/orange.png?raw=true"
     },{
         name:"pineapple",
-        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/pineapple.pngimages/pineapple.png"
+        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/pineapple.pngimages/pineapple.png?raw=true"
     },{
         name:"tomato",
-        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/tomato.png"
+        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/tomato.png?raw=true"
     },{
         name:"grapes",
-        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/grapes.png"
+        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/grapes.png?raw=true"
     },
 ]
 

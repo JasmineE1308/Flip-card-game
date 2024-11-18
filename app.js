@@ -16,7 +16,7 @@ const cardArray = [
         img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/pineapple.png"
     },{
         name:"grapes",
-        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/grapes.png"
+        img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/grapes.png?raw=true"
     },{
         name:"tomato",
         img:"https://github.com/JasmineE1308/Flip-card-game/blob/main/tomato.png"
